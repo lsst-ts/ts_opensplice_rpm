@@ -1,0 +1,1 @@
+# ts_opensplice_rpm
