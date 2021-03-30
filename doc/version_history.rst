@@ -1,0 +1,28 @@
+.. py:currentmodule:: lsst.ts.opensplice_rpm
+
+.. _lsst.ts.opensplice_rpm.version_history:
+
+###############
+Version History
+###############
+
+v-15
+====
+
+First release of this version tracking repo. All RPM versions bumped to -15
+
+ * ts_yum/releases/OpenSpliceDDS-6.9.0-15.el7.x86_64.rpm  : 
+	OpenSplice DDS Community 6.9.0 , ts_dds_python 6.11.0
+ * ts_yum/releases/OpenSpliceDDS-6.9.0-15.el7.aarch64.rpm : 
+	OpenSplice DDS Community 6.9.0 , ts_dds_python 6.11.0
+ * ts_yum_private/releases/OpenSpliceDDS-6.11.0-15.el7.x86_64.rpm : 
+	OpenSplice Enterprise 6.11.0 , ts_dds_python 6.11.0
+
+Sources
+-------
+
+* OpenSplice DDS 6.9.0 https://github.com/ADLINK-IST/opensplice/commit/5ec834ef215e82036bc2f1ac4530ae6001de47cc
+
+* OpenSplice DDS 6.11.0 Private download from ADLINK
+
+* ts_dds_python 6.11.0 : https://github.com/lsst-ts/ts_dds_python/releases/tag/v6.11.0
