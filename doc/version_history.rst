@@ -15,9 +15,14 @@ All RPM versions bumped to -16
 
  * ts_yum/releases/OpenSpliceDDS-6.9.0-16.el7.x86_64.rpm  : 
 	OpenSplice DDS Community 6.9.0 , ts_dds_python 6.11.0
+
  * ts_yum/releases/OpenSpliceDDS-6.9.0-16.el7.aarch64.rpm : 
 	OpenSplice DDS Community 6.9.0 , ts_dds_python 6.11.0
+
  * ts_yum_private/releases/OpenSpliceDDS-6.11.0-16.el7.x86_64.rpm : 
+	OpenSplice Enterprise 6.11.0 , ts_dds_python 6.11.0
+
+ * ts_yum_private/releases/OpenSpliceDDS-6.11.0-16.el7.aarch64.rpm
 	OpenSplice Enterprise 6.11.0 , ts_dds_python 6.11.0
 
 Sources
